@@ -40,8 +40,8 @@ Download
    <a href="https://columbia.resoluteinnovation.com/technologies/M11-120" target="_blank">
    https://columbia.resoluteinnovation.com/technologies/M11-120</a>
 
-The PDFgetX3, PDFgetN3 and PDFgetS3 software can be obtained for free from
-`Columbia Technology Ventures <https://techventures.columbia.edu>`__,
+The PDFgetX3, PDFgetN3 and PDFgetS3 software can be obtained for free by searching "pdfgetx3" on the
+`Columbia Technology Ventures webpage <https://inventions.techventures.columbia.edu/search>`__,
 provided it will be used for open academic research
 (please cite the relevant paper below).
 If you plan to use the software in any other way, please contact
