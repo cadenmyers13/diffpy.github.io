@@ -12,7 +12,7 @@ Copyright 2014-2015, Board of Trustees of Michigan State University
 For more information please visit the diffpy web-page at
     http://www.diffpy.org
 or email Luke Granlund at luke.r.granlund@gmail.com, or Prof. Simon
-Billinge at sb2896@columbia.edu.
+Billinge at sbillinge@ucsb.edu.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions
