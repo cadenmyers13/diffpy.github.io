@@ -18,7 +18,7 @@ and so we want to know you are a legitimate user.
 
 
 You can also share your comments, suggestions, praise or complaints by sending email to
-`Simon J. L. Billinge <sb2896@columbia.edu>`_.
+`Simon J. L. Billinge <sbillinge@ucsb.edu>`_.
 
 To report or browse bugs, please visit https://github.com/diffpy
 and continue to the relevant project and its Issues.

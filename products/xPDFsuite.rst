@@ -55,4 +55,4 @@ xPDFsuite is available for purchase for either academic or commercial applicatio
 free for academics and open source Diffpy products, such as diffpy.cmi,  diffpy.pdfgui, and PDFgetX3.**
 
 **We hope you enjoy xPDFsuite and that it supercharges your PDF analyses.**  Please contact us with feedback and questions by
-emailing `Prof. Simon Billinge  <sb2896@columbia.edu>`_
+emailing `Prof. Simon Billinge  <sbillinge@ucsb.edu>`_
