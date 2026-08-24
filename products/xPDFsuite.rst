@@ -45,11 +45,9 @@ Key features:
 Explore xPDFsuite
 =================
 xPDFsuite is available for purchase for either academic or commercial applications.
- * To help you explore xPDFsuite on your own data we have made a free evaluation version of the software available at |CTV_link|_. This has all the xPDFsuite functionality, but you will not be able to save your results.
- * To purchase xPDFsuite (separate academic and commercial license options), please go to |CTV_link|_.
-
-.. |CTV_link| replace:: Columbia Technology Ventures
-.. _CTV_link: ctv-xpdfsuite_
+ * To help you explore xPDFsuite on your own data we have made a free evaluation version of the software available by searching "xpdfsuite" on the
+   `Columbia Technology Ventures webpage <ctv-search_>`__. This has all the xPDFsuite functionality, but you will not be able to save your results.
+ * To purchase xPDFsuite (separate academic and commercial license options), please go to the same page.
 
 **Thank you for purchasing xPDFsuite. Funds we raise from sales help us to develop user interfaces and useful features on top of our
 free for academics and open source Diffpy products, such as diffpy.cmi,  diffpy.pdfgui, and PDFgetX3.**
