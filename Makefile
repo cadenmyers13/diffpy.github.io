@@ -205,8 +205,12 @@ linkcheck:
 	#     => Failure
 	#         (a) Do no proceed and let this message be printed for future
 	#             debugging/maintainance effors.
+	# Note: plain `ln -s` (no `-T`) is used here instead of GNU's `ln -sT`
+	# so this works on BSD/macOS `ln` too, which has no `-T` option. This
+	# is safe because $(TEMP_TEST_DOC_DIR) is known not to exist as a real
+	# (non-symlink) directory at this point in the repo.
 	test -h  $(TEMP_TEST_DOC_DIR) \
-	|| ln -sT $(CURRENT_DOC_DIR) $(TEMP_TEST_DOC_DIR) \
+	|| ln -s $(CURRENT_DOC_DIR) $(TEMP_TEST_DOC_DIR) \
 	&& $(SPHINXBUILD) -b linkcheck $(ALLSPHINXOPTS) $(BUILDDIR)/linkcheck \
 	;  rm $(TEMP_TEST_DOC_DIR)
 	@echo
